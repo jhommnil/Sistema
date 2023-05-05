@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24e2fe13-2d21-4e8d-bfb7-aceaf0cc9862" name="Changes" comment="falta revisar">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sexto semestre.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/StokOne/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/StokOne/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/StokOne/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/StokOne/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/StokOne/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/StokOne/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/bdStock/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/bdStock/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/bdStock/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/bdStock/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/bdStock/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/bdStock/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/bdStock/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/templates/AgregarImpresoras.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StokOne/templates/Index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PGKLlwTsKNWfzjCoTqgql4pdlP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24e2fe13-2d21-4e8d-bfb7-aceaf0cc9862" name="Changes" comment="" />
+      <created>1683077925102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683077925102</updated>
+    </task>
+    <task id="LOCAL-00001" summary="falta revisar">
+      <created>1683078018033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683078018033</updated>
+    </task>
+    <task id="LOCAL-00002" summary="falta revisar">
+      <created>1683078028325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683078028325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="falta revisar" />
+    <option name="LAST_COMMIT_MESSAGE" value="falta revisar" />
+  </component>
+</project>
